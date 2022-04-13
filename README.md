@@ -1,8 +1,8 @@
 Projeto de um chat
 
-<img src="/Projeto Chat/public/preview/preview1.gif">
-<br />
-<img src="/Projeto Chat/public/preview/preview2.gif">
+<img src="/public/preview/preview1.gif">
+<hr />
+<img src="/public/preview/preview2.gif">
 
 <h2>Instruções:</h2>
 
